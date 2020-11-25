@@ -1,7 +1,3 @@
-## Code for Chapter 2
-
-### What does this repo contain?
-
 #### This repo contains two projects - TCP server/client and HTTP Server.
 
 - For both projects, clone this repo and cd into the directory _scenario1_. This is the workspace root folder.
